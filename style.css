@@ -1,0 +1,92 @@
+body{
+    margin:0px;
+    }
+.slider .carousel-inner img{
+    text-align: center;
+    width:650px;
+    height: 500px;
+}
+.sbc .row img{
+    height:300px;
+}
+.lp  img{
+    height:300px;
+    width:400px;
+}
+.feature{
+    background-image: url(https://image.freepik.com/free-vector/blank-light-grey-blurred-background-with-radial-gradient_53562-6788.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.footer .footer_links ul li a{
+    text-decoration: none;
+    color:dimgrey;
+    padding-right: 40px;
+}
+.footer .footer_links ul li{
+    list-style-type: none;
+    
+}
+
+
+.scrolltop .backtop{
+    float: right;
+    
+}
+.footer .container-fluid{
+    padding-bottom: 50px;
+}
+.list .product_img img{
+    height:300px;
+    width:350px;
+}
+.footer{
+    border-top: 1px solid;
+    border-top-color:#d3d3d3;
+}
+.product_img img{
+   height:300px;
+    width:350px;
+ 
+}
+.Checkout {
+  background-image: url(https://motionarray.imgix.net/preview-141192-Mi0B7jCQQ8-low_0001.jpg?w=660&q=60&fit=max&auto=format);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Checkout .order{
+  padding: 5px;
+}
+.order_confirmation img{
+   height:300px;
+    width:300px;
+}
+.testimonial .avatar img{
+  height:300px;
+    width:300px;
+}
+.tt {
+  background-image: url(http://www.pixelstalk.net/wp-content/uploads/2016/05/Light-pink-Gradient-Background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.gift img{
+  height:25px;
+    width:25px;
+    }
+.contact{
+     background-image: url(https://www.xmple.com/wallpaper/yellow-linear-brown-gradient-highlight-1920x1080-c2-f5deb3-ffffe0-l-50-a-180-f-21.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bd{
+  border: 1px solid;
+ 
+} 
+@media(min-width: 768px) and (max-width: 1023px){
+  .product_img img{
+   height:150px;
+    width:200px;
+ 
+}
+}
